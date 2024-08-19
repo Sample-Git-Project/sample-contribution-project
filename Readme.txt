@@ -1,1 +1,1 @@
-It's a Portfolio Website which describe about myself. Thank You.
+It's just a sample project for learning git
